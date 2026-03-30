@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Conversor multimedia multiformato para Linux**  
+#**Conversor multimedia multiformato para Linux**  
 Interfaz GTK4 + Libadwaita · Basado en FFmpeg
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
