@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![FFmpeg Studio](data/icons/hicolor/scalable/apps/io.github.ffmpegstudio.svg)
-
 **Conversor multimedia multiformato para Linux**  
 Interfaz GTK4 + Libadwaita · Basado en FFmpeg
 
